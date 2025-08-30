@@ -1,4 +1,4 @@
-# file name
+#file name
 echo "Enter compressed file name:"
 read user_file
 echo "User file: $user_file"
